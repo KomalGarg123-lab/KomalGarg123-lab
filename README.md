@@ -34,9 +34,9 @@
 ## 🌐 Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/komal-garg-b8a417338">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<a href="https://www.linkedin.com/in/komal-garg-b8a417338/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
   <a href="mailto:komalgarg2620@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
