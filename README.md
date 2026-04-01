@@ -10,10 +10,9 @@
 
 - 🎓 B.Tech (2024–2028) @ JK Lakshmipat University  
 - 🔁 Semester Exchange @ IIT Kanpur (2025) & IIT Gandhinagar (2026)  
-- 💻 Focused on building scalable and real-world full stack applications  
+- 💻 Building and deploying scalable full stack applications 
 - ⚙️ Strong interest in backend systems, authentication, and APIs  
 - 🤖 Currently learning Machine Learning & Deep Learning  
-- 🚀 Strengthening full stack development by building and deploying projects  
 - 🧠 Regular problem solving on LeetCode & CodeChef — actively improving on medium-level problems and steadily pushing toward harder challenges  
 
 ---
